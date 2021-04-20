@@ -4,7 +4,7 @@
   "description": "dApp Starter Kit",
   "private": true,
   "engines": {
-    "node": "9.10.0"
+    "node": "14"
   },
   "dependencies": {
     "babel-polyfill": "6.26.0",
